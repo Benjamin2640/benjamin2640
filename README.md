@@ -36,6 +36,7 @@ With background in Mechanical Engineering and hands-on analytical thinking, I en
 - Built an interactive dashboard using excel (pivot table)
 - Analyzed sales trends, Customer behaviour, and KPIs
 - Generated insights for business decision-making
+- project link (  )
 
 ### Automated Garri fryer project
 - Final year Mechanical engineering project
